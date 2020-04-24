@@ -82,7 +82,7 @@ input[name=Subject] {
   width: 83%;
 }
 
-input[type=submit] {
+form button {
   background-color: black;
   color: white;
   width: 83%;
@@ -237,4 +237,7 @@ width: 300px;
 }
 .new-head .underLine {
   width: 100%;
+}
+form div {
+  margin-left: 7%;
 }
